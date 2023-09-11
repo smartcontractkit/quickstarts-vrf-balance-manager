@@ -8,10 +8,12 @@ Automatically top-up your VRF subscription balances using Chainlink Automation t
 
 Install the chainlink contracts npm package using your preferred package manager
 
-`# via pnpm
+```
+# via pnpm
 $ pnpm add @chainlink/contracts
 # via npm
-$ npm install @chainlink/contracts --save`
+$ npm install @chainlink/contracts --save
+```
 
 ## III. How to utilize the Example
 
