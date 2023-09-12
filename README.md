@@ -10,9 +10,9 @@ Install the chainlink contracts npm package using your preferred package manager
 
 ```
 # via pnpm
-$ pnpm add @chainlink/contracts
+$ pnpm add @chainlink/contracts@0.6.1
 # via npm
-$ npm install @chainlink/contracts --save
+$ npm install @chainlink/contracts@0.6.1 --save
 ```
 
 ## III. How to utilize the Example
